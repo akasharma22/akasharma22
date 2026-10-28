@@ -3,8 +3,7 @@
 **Managerial Economics, UMass Amherst (Commonwealth Honors College, May 2026) · Fintech, Research & Data Analytics**
 
 Recent Managerial Economics graduate with hands-on experience in fintech product, equity research, and operations analytics. I use econometrics and data tools — R, SQL, Excel, Bloomberg — to answer business and policy questions, from incentive design to banking regulation to agricultural market concentration.
-
-📍 New York, NY | 📧 akasharma@umass.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/akasharma-/)
+422@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/akasharma-/)
 
 ---
 
