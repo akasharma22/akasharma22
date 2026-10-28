@@ -4,7 +4,7 @@
 
 Data and analytics professional with experience in corporate audit analytics, fintech product management, and finance operations at State Street and Charles River Development. I use econometrics and data tools (SQL, R, Excel, Power BI, Tableau, Bloomberg) to answer business and policy questions.
 
-New York, NY · akasharma422@gmail.com · [LinkedIn](https://www.linkedin.com/in/akasharma-/) · **[Resume (PDF)](Sharma_Akanksha_Resume.pdf)**
+akasharma422@gmail.com · [LinkedIn](https://www.linkedin.com/in/akasharma-/) · **[Resume (PDF)](Sharma_Akanksha_Resume.pdf)**
 
 ---
 
